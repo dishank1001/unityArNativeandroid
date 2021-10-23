@@ -1,0 +1,8 @@
+include ':app'
+//include ':unityLibrary'
+//project(':unityLibrary').projectDir = new File('..\\UnityAndroidLibrary\\unityLibrary')
+include ':unityLibrary'
+project(':unityLibrary').projectDir=new File('..\\RemoteAssistantAR\\androidBuild\\unityLibrary')
+
+include ':AgoraRtcEngineKit.plugin'
+project(':AgoraRtcEngineKit.plugin').projectDir=new File('..\\RemoteAssistantAR\\androidBuild\\unityLibrary\\AgoraRtcEngineKit.plugin')

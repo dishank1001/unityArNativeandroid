@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{5B580621-09B4-68CB-B5F4-5B9DD210A60F}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="../RemoteAssistantAR/Assets/Scripts/GameController.cs">
+    <Files>
+      <File FileName="Assets/Scripts/LineManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/UIManager.cs" />
+      <File FileName="../RemoteAssistantAR/Assets/Scripts/GameController.cs" Line="107" Column="14" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="UnityProject" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="LineManager.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Unity" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="e3a52d54-b837-4192-844a-9fa5b5812747" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
